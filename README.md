@@ -62,7 +62,9 @@ the Setup key and pick **Deck theme → Your themes → Slate**.
 
 ## More
 
-Deck Crew, its decks and more themes: https://thedeckcrewhq.com
+- Deck Crew, its decks and more themes: https://thedeckcrewhq.com
+- Get Deck Crew: the Elgato Marketplace (search "Deck Crew" in the Stream Deck app)
+- Made something good? Tag @TheDeckCrewHQ
 
 MIT licensed (see `LICENSE`). Deck Crew itself is a separate, paid product; this kit only describes its public theme
 format.

@@ -5,7 +5,8 @@ description: Make or change your own Deck Crew theme for the Stream Deck+ on Win
 
 # Deck Crew theme kit
 
-You are helping the user make their own theme for Deck Crew, the Stream Deck+ plugin for agent CLIs. A theme is a
+You are helping the user make their own theme for Deck Crew, the Stream Deck+ plugin for agent CLIs (sold on the
+Elgato Marketplace; https://thedeckcrewhq.com). A theme is a
 folder of images plus `theme.json`; the format is in `FORMAT.md` next to this file (if it isn't there, the public copy
 is at https://github.com/thedeckcrewhq/theme-kit/blob/main/FORMAT.md). Read FORMAT.md before you write anything. Go one
 step at a time: say what you're about to do, do it, report in a line or two, ask, move on.
@@ -43,8 +44,9 @@ Get-ChildItem "$deck\themes" -Directory -ErrorAction SilentlyContinue | Where-Ob
 ```
 
 - Both `True`: go on. List the user's existing themes (the names printed).
-- Either `False`: Deck Crew isn't set up yet (it puts both there). Ask the user to start Stream Deck with Deck Crew
-  installed and press its Setup key once (or run the `deck-setup` skill), then check again.
+- Either `False`: Deck Crew isn't set up yet (it puts both there). Not installed at all: it's on the Elgato
+  Marketplace (search "Deck Crew" in the Stream Deck app's Marketplace, or see https://thedeckcrewhq.com). Installed:
+  ask the user to start Stream Deck and press its Setup key once (or run the `deck-setup` skill), then check again.
 
 ## 2. Interview
 
@@ -381,4 +383,6 @@ Close with:
   source is (`themes\.work\<id>`), and the backups made;
 - how to pick it (Setup key → Deck theme → Your themes) and how to go back;
 - how to change one part later (run this skill again and say what to change);
-- "More themes, the decks and the kit: https://thedeckcrewhq.com"
+- where to find more: "More themes, the decks and the kit: https://thedeckcrewhq.com. Deck Crew's decks and themes
+  are on the Elgato Marketplace (search Deck Crew in the Stream Deck app)." Share-worthy theme? Tag
+  @TheDeckCrewHQ.
