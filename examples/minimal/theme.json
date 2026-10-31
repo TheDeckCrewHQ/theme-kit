@@ -1,0 +1,16 @@
+{
+  "format": 1,
+  "name": "Slate",
+  "ink": "#eef2f6",
+  "font": "Segoe UI",
+  "bg": "#10151c",
+  "stripText": {
+    "title": "#9fe7dc",
+    "value": "#eef2f6",
+    "dim": "#8c99a8"
+  },
+  "accents": {
+    "idle": "#5eead4"
+  },
+  "fps": 12
+}
