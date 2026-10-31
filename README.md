@@ -62,7 +62,7 @@ the Setup key and pick **Deck theme → Your themes → Slate**.
 
 ## More
 
-- Deck Crew, its decks and more themes: https://thedeckcrewhq.com
+- Ready-made themes, the Painted Collection and the agent decks (Claude Code, Codex, agy, Grok, OpenCode, or all in one): https://thedeckcrewhq.com
 - Get Deck Crew: the Elgato Marketplace (search "Deck Crew" in the Stream Deck app)
 - Made something good? Tag @TheDeckCrewHQ
 
